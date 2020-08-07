@@ -49,7 +49,7 @@ Without an API key the Google Maps map won't render anything.
  
 3.	Android Gradle version 3.5
 
-4.	Material Design for UI componets.
+4.	Material Design for JustMind.
 
 
 # Future Enhancements
