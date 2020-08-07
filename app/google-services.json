@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870566619073",
+    "firebase_url": "https://my-traker-7e4f2.firebaseio.com",
+    "project_id": "my-traker-7e4f2",
+    "storage_bucket": "my-traker-7e4f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870566619073:android:bcf45d8d43aac281293140",
+        "android_client_info": {
+          "package_name": "com.example.mytraker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870566619073-9tb9eg7rtdq57sus2ne08im3n8vt0rpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4icAc9QbgMEd-QB7wI8IasXoJ4YRp_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870566619073-9tb9eg7rtdq57sus2ne08im3n8vt0rpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
